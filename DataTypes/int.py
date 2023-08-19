@@ -11,7 +11,7 @@ print(z)
 print(type(z))
 
 
-m=int('100')
+m=int('100')  # base '0'
 print(m)
 print(type(m))
 
@@ -20,7 +20,7 @@ print(l)
 print(type(l))
 
 
-n = int('100', 2)
+n = int('100', 2)  
 print(n)
 print(type(n))
 

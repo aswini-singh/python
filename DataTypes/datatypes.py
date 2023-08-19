@@ -31,4 +31,13 @@ print(type(a))
 a = None
 print(type(a)) 
 
+x , y, z = 1,2,3
+print(x)
+print(y)
+print(z) 
+
+a , b, c = 10 , 'sir' , 20.5
+print(a)
+print(b)
+print(c)
 

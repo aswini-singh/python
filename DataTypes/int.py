@@ -19,7 +19,6 @@ l=int('100',6)
 print(l)
 print(type(l))
 
-
 n = int('100', 2)  
 print(n)
 print(type(n))

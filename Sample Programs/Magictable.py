@@ -20,7 +20,7 @@ def generate_magic_square(n):
 def print_magic_square(square):
     n = len(square)
     for i in range(n):
-        row_str = ' '.join(map(lambda x: str(x).rjust(3), square[i]))
+        row_str = ' '.join(map(lambda x: str(x).rjust(4), square[i]))
         print(row_str)
         
 if __name__ == "__main__":
